@@ -6,7 +6,7 @@ Create a Dashboard of US population from 2020-2024 using Streamlit
 
 ### Pre-processing data & how to run the dashboard
 Pre-processing data has been done in [this file]()
-You can run the dashboard from your terminal using this snip code :
+You can run the dashboard from your terminal:
 
 ```{r echo = FALSE}
 streamlit run dashboard_us_pop.py
